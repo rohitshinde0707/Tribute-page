@@ -1,0 +1,27 @@
+/* responsive style */
+
+@media screen and (max-width: 799px) {
+    #home {
+        height: 60vh;
+    }
+
+    .main-img {
+        width: 50%;
+    }
+
+    /* about */
+
+    #about .about-info{
+        font-size: 20px;
+    }
+    
+    .about-img{
+        width: 55%;
+    }
+   
+    #about .about-img-div{
+        width: 100vw;
+        margin: auto;
+        height: 50vh;
+    }
+}

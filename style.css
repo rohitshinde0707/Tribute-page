@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.header{
+    color: #F93D00;
+}
+.fort-name{
+    color: #F93D00;
+    font-size: 25px;
+}
+#home{
+    height: 90vh;
+    width: 100vw;
+    /* background-color: aquamarine; */
+}
+.main-img{
+    width: 25%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    mix-blend-mode: multiply;
+}
+
+/* section about */
+#about{
+    height: auto;
+    width: 100vw;
+    /* background-color: rgb(33, 156, 156); */
+}
+#about .about-info{
+    font-size: 25px;
+}
+
+.about-img{
+    width: 95%;
+}
+
+/* =========== section forts */
