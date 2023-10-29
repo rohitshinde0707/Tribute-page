@@ -5,8 +5,15 @@
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
+.logo{
+    color: #F93D00;
 
+}
 .header{
+    color: #F93D00;
+
+}
+.navbar-nav a:hover{
     color: #F93D00;
 }
 .fort-name{
@@ -42,3 +49,19 @@
 }
 
 /* =========== section forts */
+
+
+/* ============== combat with afzal khan */
+.about-combat{
+    font-size: 22px;
+}
+
+footer{
+    background-color:#F93D00;
+}
+
+footer .header{
+    color: #fff;
+    font-size: 23px;
+    
+}
